@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Indoor Positioning System</string>
+    <string name="ad_unit_id">ca-app-pub-1176712551400203/7698268075</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="radio_male">First_Floor</string>
+    <string name="radio_female">Ground_Floor</string>
+    <string name="radioTesting">Testing</string>
+    <string name="btn_display">Next</string>
+</resources>
